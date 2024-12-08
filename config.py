@@ -3,9 +3,9 @@ import os
 
 class Config(object):
     # env vars
-    BOT_TOKEN = "1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZ"  # string
-    API_ID = 1234567  # int
-    API_HASH = "123abc456def789ghi012jklmn"  # string
+    BOT_TOKEN = "7664032176:AAGxYPejZ8sKRqRM_-MAHpIOADJ_AnC2HO0"  # string
+    API_ID = 28494431  # int
+    API_HASH = "381dff361d5a3d03645b626b906c7afe"  # string
     
     # db vars
     # keep empty if don't want to add any extra caption
